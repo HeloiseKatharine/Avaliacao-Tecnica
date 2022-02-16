@@ -44,7 +44,7 @@ def verbos(p):
 #chamando a função verbos
 lista_verbos = list(map(verbos, palavras))
 
-lista = [{'os': 'casen'}, {'e': 'porren'}, {'aem': 'carren'}]
+#lista = [{'os': 'casen'}, {'e': 'porren'}, {'aem': 'carren'}]
 present = {'o':'1st', 'os':'2nd', 'a':'3rd', 'om':'4th', 'ons':'5th', 'am':'6th'}
 past = {'ei':'1st', 'es':'2nd', 'e':'3rd', 'em':'4th', 'est':'5th', 'im':'6th'}
 future = {'ai':'1st', 'ais':'2nd', 'i':'3rd', 'aem':'4th', 'aist':'5th', 'aim':'6th'}
